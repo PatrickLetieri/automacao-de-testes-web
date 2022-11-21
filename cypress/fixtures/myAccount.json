@@ -1,0 +1,7 @@
+{
+    "seletores": {
+        "linkEditAddress": "a.action.edit[data-ui-id='default-billing-edit-link']",
+        "linkMyAccount": ".items > :nth-child(1) > a",
+        "linkMyAccountTitle": "h1.page-title span.base"
+    }
+}

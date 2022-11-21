@@ -1,0 +1,6 @@
+{
+    "seletores": {
+        "linkCreateAnAccount": ".panel.header ul.header.links li:last-child",
+        "linkCreateAnAccountTitle": "span.base[data-ui-id='page-title-wrapper']"
+    }
+}

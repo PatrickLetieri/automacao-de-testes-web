@@ -1,0 +1,27 @@
+{
+  "seletores": {
+    "linkPhonenum": "#telephone",
+    "linkStreetAddress": "#street_1",
+    "linkCity": "#city",
+    "linkPostalCode": "#zip",
+    "linkCountry": "select#country",
+    "linkSelectState": "#region_id",
+    "linkInputState": "#region",
+    "buttonSaveAddress": "button[type='submit'].action.save.primary",
+    "linkMensagemSucesso": ".message-success > div"
+
+  },
+  
+  "dadosValidos": {
+    "phoneNum": "51 99899-5545",
+    "streetAddress": "Av. Protásio Alves, 977",
+    "cityName": "Porto Alegre",
+    "postalCode": "93444-210",
+    "countryName": "Brazil",
+    "stateName": "Rio Grande do Sul"
+  },
+  
+  "assertions": {
+    "mensagemSucesso": "You saved the address."
+  }
+}

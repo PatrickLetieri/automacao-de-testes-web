@@ -1,0 +1,17 @@
+{
+    "seletores": {
+        "linkFirstName": "#firstname",
+        "linkLastName": "#lastname",
+        "linkEmail": "#email_address",
+        "linkPassword": "#password",
+        "linkConfirmPassword": "#password-confirmation",
+        "buttonCreateAccount": "button.action.submit.primary",
+        "linkMensagemSucesso": ".message-success > div"
+    },
+    
+    "assertions":{
+        "mensagemSucesso": "Thank you for registering with Fake Online Clothing Store."
+    }
+    
+    
+}
