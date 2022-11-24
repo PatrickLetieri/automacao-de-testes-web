@@ -3,4 +3,3 @@ cypress\videos
 cypress.config.js
 package-lock.json
 package.json
-cypress\downloads
